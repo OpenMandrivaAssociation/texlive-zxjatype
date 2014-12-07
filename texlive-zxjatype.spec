@@ -6,7 +6,7 @@
 # catalog-version 0.6
 Name:		texlive-zxjatype
 Version:	0.6
-Release:	7
+Release:	8
 Summary:	Standard conforming typesetting of Japanese, for XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/zxjatype
