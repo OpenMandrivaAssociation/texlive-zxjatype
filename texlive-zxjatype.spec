@@ -1,12 +1,6 @@
-# revision 28541
-# category Package
-# catalog-ctan /language/japanese/zxjatype
-# catalog-date 2012-12-15 19:00:17 +0100
-# catalog-license other-free
-# catalog-version 0.6
 Name:		texlive-zxjatype
-Version:	0.6
-Release:	9
+Version:	0.6b
+Release:	1
 Summary:	Standard conforming typesetting of Japanese, for XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/zxjatype
@@ -31,12 +25,8 @@ TeXLive zxjatype package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/zxjatype/zxjatype.sty
-%doc %{_texmfdistdir}/doc/latex/zxjatype/LICENSE
-%doc %{_texmfdistdir}/doc/latex/zxjatype/README
-%doc %{_texmfdistdir}/doc/latex/zxjatype/example/example.pdf
-%doc %{_texmfdistdir}/doc/latex/zxjatype/example/example.tex
-%doc %{_texmfdistdir}/doc/latex/zxjatype/example/xetexsamp01.pdf
+%{_texmfdistdir}/tex/latex/zxjatype
+%doc %{_texmfdistdir}/doc/latex/zxjatype
 
 #-----------------------------------------------------------------------
 %prep
