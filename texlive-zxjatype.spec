@@ -1,5 +1,5 @@
 Name:		texlive-zxjatype
-Version:	0.6b
+Version:	0.6c
 Release:	1
 Summary:	Standard conforming typesetting of Japanese, for XeLaTeX
 Group:		Publishing
