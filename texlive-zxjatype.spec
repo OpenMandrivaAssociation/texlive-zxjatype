@@ -3,7 +3,7 @@ Version:	53500
 Release:	2
 Summary:	Standard conforming typesetting of Japanese, for XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/zxjatype
+URL:		https://www.ctan.org/tex-archive/language/japanese/zxjatype
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zxjatype.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zxjatype.doc.r%{version}.tar.xz
